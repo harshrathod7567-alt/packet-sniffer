@@ -1,0 +1,20 @@
+=== Packet Sniffer Report ===
+
+Total packets captured: 30
+
+Protocol breakdown:
+  TCP: 22
+  UDP: 8
+
+Top destination IPs:
+  142.250.72.14: 12 packets
+  8.8.8.8: 6 packets
+  17.253.144.10: 5 packets
+  23.192.108.35: 4 packets
+  151.101.65.69: 3 packets
+
+Top destination ports:
+  Port 443: 18 packets
+  Port 53: 8 packets
+  Port 80: 3 packets
+  Port 123: 1 packets
